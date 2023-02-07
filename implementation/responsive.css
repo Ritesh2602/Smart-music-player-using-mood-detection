@@ -1,0 +1,4 @@
+#song-display {
+    display: grid;
+    grid-template-columns: 1fr;
+}
