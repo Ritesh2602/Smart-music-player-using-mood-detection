@@ -1,0 +1,10 @@
+pip~=23.0
+wheel~=0.37.1
+lxml~=4.9.1
+tornado~=6.2
+setuptools~=58.1.0
+future~=0.18.2
+opencv-python~=4.6.0.66
+Eel~=0.14.0
+Pillow~=9.1.0
+numpy~=1.23.3
